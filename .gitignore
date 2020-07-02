@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PluginArchDemo/Plugins.Client/bin
+/PluginArchDemo/Plugins.Client/obj
+/PluginArchDemo/Plugins.Contract/bin
+/PluginArchDemo/Plugins.Contract/obj
+/PluginArchDemo/Plugins.Ext/bin
+/PluginArchDemo/Plugins.Ext/obj
+/PluginArchDemo/.vs/
+/.vs
