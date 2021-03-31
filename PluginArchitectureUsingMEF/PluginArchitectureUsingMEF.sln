@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1169
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins.Client", "Plugins.Client\Plugins.Client.csproj", "{4DBA273A-92AE-4897-B18D-BE8D0C1200D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plugins.Client", "Plugins.Client\Plugins.Client.csproj", "{4DBA273A-92AE-4897-B18D-BE8D0C1200D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins.Ext", "Plugins.Ext\Plugins.Ext.csproj", "{CC642B68-4C52-40D9-85F7-F7F3EB07C7EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plugins.Extension", "Plugins.Extension\Plugins.Extension.csproj", "{CC642B68-4C52-40D9-85F7-F7F3EB07C7EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins.Contract", "Plugins.Contract\Plugins.Contract.csproj", "{1F29ACFA-D664-4C9A-805A-86032BE3EB9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plugins.Contract", "Plugins.Contract\Plugins.Contract.csproj", "{1F29ACFA-D664-4C9A-805A-86032BE3EB9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

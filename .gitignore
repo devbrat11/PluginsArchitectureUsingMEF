@@ -2,11 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/PluginArchDemo/Plugins.Client/bin
-/PluginArchDemo/Plugins.Client/obj
-/PluginArchDemo/Plugins.Contract/bin
-/PluginArchDemo/Plugins.Contract/obj
-/PluginArchDemo/Plugins.Ext/bin
-/PluginArchDemo/Plugins.Ext/obj
-/PluginArchDemo/.vs/
-/.vs
+/PluginArchitectureUsingMEF/Plugins.Client/bin
+/PluginArchitectureUsingMEF/Plugins.Client/obj
+/PluginArchitectureUsingMEF/Plugins.Contract/bin
+/PluginArchitectureUsingMEF/Plugins.Contract/obj
+/PluginArchitectureUsingMEF/Plugins.Extension/bin
+/PluginArchitectureUsingMEF/Plugins.Extension/obj
+/PluginArchitectureUsingMEF/.vs/
